@@ -1,0 +1,2 @@
+[console_scripts]
+pkre = pkre.cli:main

@@ -1,3 +1,11 @@
+Metadata-Version: 2.4
+Name: pkre
+Version: 0.2.0
+Summary: PKRE Cryptographic Research Engine
+Author: Reza Niruomand
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 
 # PKRE – Cryptographic Research Engine
 

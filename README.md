@@ -10,6 +10,8 @@ Features:
 pip install -e .
 
 ## CLI
-pkre entropy <hex>
-pkre keyspace <bits>
-pkre hash <string>
+pkre entropy hex
+
+pkre keyspace bits
+
+pkre hash string
